@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\bin\Debug\net7.0\PutClothesInOrder.exe
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\bin\Debug\net7.0\PutClothesInOrder.deps.json
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\bin\Debug\net7.0\PutClothesInOrder.runtimeconfig.json
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\bin\Debug\net7.0\PutClothesInOrder.dll
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\bin\Debug\net7.0\PutClothesInOrder.pdb
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.dll
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\refint\PutClothesInOrder.dll
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.pdb
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\PutClothesInOrder.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Visual Studio\PutClothesInOrder\obj\Debug\net7.0\ref\PutClothesInOrder.dll
